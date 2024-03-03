@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExpressMart</string>
+    <string name="door_tag">Get grocery at your service in within less time</string>
+    <string name="door_main">Grocery delivery at door step</string>
+    <string name="shopgrocery">Shop grocery without stress</string>
+    <string name="addtocart">Quickly search and add to your cart</string>
+    <string name="discount">Amazing discount and offers</string>
+    <string name="discounttag">Chaeper price than local SuperMarket and great discount</string>
+    <string name="secure_payment_system">Secure Payment System</string>
+    <string name="easy_payment">Simple and easy payment method</string>
+</resources>
